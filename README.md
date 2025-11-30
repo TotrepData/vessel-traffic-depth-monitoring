@@ -463,9 +463,3 @@ Autor
 Javier Mondragón
 
 Data Engineer | Universidad de los Andes
-
----
-
-License
-
-Educational project
