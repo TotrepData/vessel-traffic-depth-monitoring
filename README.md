@@ -430,7 +430,7 @@ El Workflow puede ejecutarse:
 - Programado diariamente  
 - En ciclos hasta procesar todos los archivos AIS  
 
-El modo más típico en este taller:  
+El modo utilizado en este ejercicio:  
 **ejecución manual que avanza incrementalmente** en cada corrida.
 
 ---
