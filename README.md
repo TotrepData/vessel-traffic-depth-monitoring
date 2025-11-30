@@ -461,6 +461,7 @@ Todo el pipeline es reproducible porque:
 Autor
 
 Javier Mondragón
+
 Data Engineer | Universidad de los Andes
 
 ---
