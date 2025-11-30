@@ -458,5 +458,13 @@ Todo el pipeline es reproducible porque:
 - El Workflow garantiza el orden correcto de ejecución.  
 
 ---
+Autor
 
-Archivo generado con éxito.
+Javier Mondragón
+Data Engineer | Universidad de los Andes
+
+---
+
+License
+
+Educational project
