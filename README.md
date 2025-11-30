@@ -87,6 +87,7 @@ vessel-traffic-depth-monitoring/
 ├── 01_bronze.py        # Ingesta incremental AIS + NOAA
 ├── 02_silver.py        # Limpieza, H3 y enriquecimiento incremental
 ├── 03_gold.py          # Agregación final incremental
+├── Dashboard.pdf       # Dasboard resultante en Databricks Dashboards
 └── README.md
 ```
 
