@@ -2,7 +2,7 @@
 00_config.py
 Archivo de configuración del proyecto.
 
-Notas:
+Incluye:
       * la sesión de Spark,
       * el catálogo y esquema de Unity Catalog,
       * las rutas base de los datos crudos,
